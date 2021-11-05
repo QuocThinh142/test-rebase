@@ -5,3 +5,4 @@ dev 2
 dev 3
 dev 4
 featureA  1
+featureC 1
